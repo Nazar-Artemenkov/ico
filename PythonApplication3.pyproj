@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>1cf28ea5-ac77-4f63-b092-fac5d652df2f</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>26.03\tkinter.py</StartupFile>
+    <StartupFile>küsimustik\Küsimistik.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,9 +21,6 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="..\..\source\repos\Nazar\tkinter.py">
-      <Link>26.03\tkinter.py</Link>
-    </Compile>
     <Compile Include="Email\Email.py" />
     <Compile Include="küsimustik\Küsimistik.py" />
     <Compile Include="küsimustik\minaOmaModule.py" />
@@ -41,7 +38,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Anket.txt" />
-    <Content Include="icon.ico" />
     <Content Include="küsimustik\Oiged.txt" />
     <Content Include="küsimustik\Valed.txt" />
     <Content Include="Регистрация\Kasutajad.txt" />
@@ -51,7 +47,6 @@
     <Folder Include="12.03\" />
     <Folder Include="küsimustik\" />
     <Folder Include="Email\" />
-    <Folder Include="26.03\" />
     <Folder Include="Старое\" />
     <Folder Include="Регистрация\" />
   </ItemGroup>
